@@ -8,15 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alpha/0A_Start Screen.unity
     guid: 6c37b4f248e443944b4038f42b0b7cda
-  - enabled: 0
-    path: Assets/Scenes/Alpha/1A_MenuScreen.unity
-    guid: 51e52c79037ef2646ae04259a3ab72f5
   - enabled: 1
     path: Assets/Scenes/Alpha/1A_MenuScreenV2.unity
     guid: a46572aa5a2940c4e9ebf576f5a9c9df
-  - enabled: 0
-    path: Assets/Scenes/Alpha/2A_PlaySceneV1.unity
-    guid: 9bee6533321a79f4ea1a103936a00725
   - enabled: 1
     path: Assets/Scenes/Alpha/2A_PlaySceneV2.unity
     guid: dc47df2c427c5de42bee3b63ca7771e5
